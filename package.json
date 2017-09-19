@@ -1,12 +1,13 @@
 {
     "name": "cordova-plugin-amap",
     "version": "1.0.0",
-    "description": "A sample Apache Cordova application that responds to the deviceready event.",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "Apache Cordova Team",
+    "description": "Cordova Amap Sdk.",
+    "author": "hijoker",
     "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eyre/cordova-plugin-amap.git"
+    },
     "cordova": {
         "id": "cordova-plugin-amap",
         "platforms": [
